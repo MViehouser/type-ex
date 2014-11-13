@@ -1,5 +1,32 @@
 /* Your Website Styles */
 
+body {
+	background: url("../img/gray_sand.png");
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	color: #DF7412;
+	font-size: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 75px;
+	color: #F28B15;
+}
+
+h3 {
+	color: #B7000D;
+	font-size: 50px;
+}
+
+img {
+	margin: 10px;
+	text-align: center;
+
+}
 
 /* Show Grid */
 .showgrid {
