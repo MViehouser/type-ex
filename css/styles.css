@@ -18,14 +18,15 @@ h1 {
 }
 
 h3 {
+	text-align: left;
 	color: #B7000D;
 	font-size: 50px;
+	margin-left: 20px;
 }
 
 img {
 	margin: 10px;
-	text-align: center;
-
+	
 }
 
 /* Show Grid */
